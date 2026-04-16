@@ -47,7 +47,7 @@ Je transforme les données en indicateurs stratégiques pour aider à la décisi
 
 - **Email** : djamalhaddouche@hotmail.com
 - **Téléphone** : 06 21 87 75 98
-- **CV** : [📄 Télécharger mon CV (PDF)](CV_Djamal_Haddouche_DataAnalyst.pdf)
+- **CV** :[📄 Télécharger mon CV (PDF)](CV_Djamal_Haddouche_DataAnalyst.pdf)
 
 ---
 
